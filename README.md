@@ -1,1 +1,2 @@
-# wof-contracts
+# contracts
+contracts
